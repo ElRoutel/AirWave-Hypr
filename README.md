@@ -1,4 +1,6 @@
 # 🎵 AirWave-Hypr
+![Desktop Preview](assets/preview_desktop.png)
+![Lock Screen Preview](assets/preview_lock.png)
 AirPlay metadata integration for Hyprland (Waybar & Hyprlock).
 
 This project allows you to see what's playing via **Shairport Sync** directly on your **Waybar** and **Hyprlock** screen, providing a seamless AirPlay experience on Linux.
